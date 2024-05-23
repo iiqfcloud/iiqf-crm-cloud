@@ -22,7 +22,7 @@ notifs = [
         "id": 3,
         "title": "Notif 2",
         "content": "This is another notification",
-        "datetime": "2024-01-01T15:00:00Z"
+        "datetime": "2020-01-01T15:00:00Z"
     }
 ]
     ;
